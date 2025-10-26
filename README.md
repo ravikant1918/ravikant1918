@@ -7,15 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yadavrdn" target="blank"><img src="https://img.shields.io/twitter/follow/yadavrdn?logo=twitter&style=for-the-badge" alt="yadavrdn" /></a> </p>
 
-- 🔭 I’m currently working on **OLMS**
-
-- 🌱 I’m currently learning **Django**
-
-- 👯 I’m looking to collaborate on **OLMS**
-
-- 🤝 I’m looking for help with **OLMS**
-
-- 💬 Ask me about **Django, react, express**
 
 - 📫 How to reach me **ravikantyadav1918@gmail.com**
 
