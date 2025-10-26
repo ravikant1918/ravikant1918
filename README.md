@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Ravikant Yadav</h1>
-<h3 align="center">🚀 Senior Software Engineer | Python & AI/ML Developer | Open Source enthusiast & Contributor</h3>
+<h3 align="center">🚀 Senior Software Engineer | Python & AI/ML Developer | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravikant1918&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
