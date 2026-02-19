@@ -8,13 +8,14 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ravikant+Yadav;Senior+Software+Engineer+%7C+AI%2FML+Developer;Open+Source+Creator+%7C+MCP+Specialist" alt="Typing SVG" />
 </a>
+<p></p>
 
 <!-- ─── Badge Row ─── -->
 <p>
   <a href="https://github.com/ravikant1918?tab=followers"><img src="https://img.shields.io/github/followers/ravikant1918?style=for-the-badge&logo=github&logoColor=white&color=6C63FF" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=ravikant1918&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://linkedin.com/in/ravikant900"><img src="https://img.shields.io/badge/LinkedIn-ravikant900-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@ravikantyadav1918"><img src="https://img.shields.io/badge/Medium-@ravikantyadav1918-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://medium.com/@ravikant1918"><img src="https://img.shields.io/badge/Medium-@ravikant1918-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 </div>
@@ -41,7 +42,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 - 📈 Creator of **Upstox MCP Server** — the first MCP for Indian equity markets
 - 🗂️ Built **SharePoint MCP** — enterprise-grade AI integration with Microsoft SharePoint
 - 🧪 Passionate about **AI-driven code quality** — automated reviews, test generation, and coverage
-- ✍️ I write about AI engineering on [Medium](https://medium.com/@ravikantyadav1918)
+- ✍️ I write about AI engineering on [Medium](https://medium.com/@ravikant1918)
 
 ---
 
@@ -127,11 +128,15 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,git,nginx" />
 </td>
 </tr>
+<tr>
+<td colspan="5" align="center"><b>🔧 Also</b></td>
+</tr>
+<tr>
+<td colspan="5" align="center">
+<img src="https://skillicons.dev/icons?i=kafka,elastic,go,express" />
+</td>
+</tr>
 </table>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kafka,elastic,go,express" />
-</p>
 
 ---
 
@@ -140,7 +145,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [**Read all posts on Medium »**](https://medium.com/@ravikantyadav1918)
+➡️ [**Read all posts on Medium »**](https://medium.com/@ravikant1918)
 
 ---
 
@@ -148,14 +153,14 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravikant1918&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravikant1918&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=ravikant1918&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9&ring_color=6C63FF&cache_seconds=86400" alt="GitHub Stats" height="170" />
+<img src="https://streak-stats.demolab.com/?user=ravikant1918&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&sideLabels=C9D1D9&dates=555555" alt="GitHub Streak" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant1918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikant1918&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 </div>
 
@@ -175,7 +180,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 <div align="center">
 <a href="https://linkedin.com/in/ravikant900"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://medium.com/@ravikantyadav1918"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://medium.com/@ravikant1918"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://twitter.com/yadavrdn"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" /></a>
 <a href="https://dev.to/ravikant1918"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 <a href="mailto:ravikantyadav1918@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
