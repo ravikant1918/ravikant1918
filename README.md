@@ -142,8 +142,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- 📄 [What Are MCP Apps? A Developer Guide to Interactive AI Tools for Claude](https://medium.com/@ravikant1918/what-are-mcp-apps-a-developer-guide-to-interactive-ai-tools-for-claude-06992bc1e9f1?source=rss-86550fa0f7ac------2) &mdash; 1616 D, YYYY- 📄 [The USB Port for AI: How the Upstox MCP Server Connects Claude to Real-Time Market Data](https://medium.com/@ravikant1918/the-usb-port-for-ai-how-the-upstox-mcp-server-connects-claude-to-real-time-market-data-ba179358e891?source=rss-86550fa0f7ac------2) &mdash; 099 D, YYYY- 📄 [Monitoring Made Easy With ATP: Leveraging Airflow Plugins for DAG and Task Analytics](https://medium.com/@ravikant1918/monitoring-made-easy-leveraging-airflow-plugins-for-dag-and-task-analytics-6f06e737e9aa?source=rss-86550fa0f7ac------2) &mdash; 4343 D, YYYY<!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read all posts on Medium »**](https://medium.com/@ravikant1918)
 
