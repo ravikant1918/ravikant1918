@@ -15,7 +15,7 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@ravikantyadav1918"
+          feed_list: "https://medium.com/feed/@ravikant1918"
           max_post_count: 5
           template: "- 📄 [$title]($url) &mdash; $date"
           date_format: "MMM D, YYYY"
