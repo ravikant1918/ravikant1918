@@ -5,10 +5,12 @@
 <div align="center">
 
 <!-- ─── Animated Typing Header ─── -->
+<p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Ravikant+Yadav;Senior+Software+Engineer+%7C+AI%2FML+Developer;Open+Source+Creator+%7C+MCP+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=140&lines=%F0%9F%91%8B+Hey%2C+I'm+Ravikant+Yadav;AI+Infrastructure+%26+Agent+Systems+Engineer;Designing+%26+Shipping+Production-Grade+Systems" alt="Typing SVG" />
 </a>
-<p></p>
+</p>
+
 
 <!-- ─── Badge Row ─── -->
 <p>
@@ -24,25 +26,30 @@
 
 ## 🧠 About Me
 
-```yaml
-name: Ravikant Yadav
-role: Senior Software Engineer @ Airtel
-location: Gurugram, India
-focus:
-  - AI-Powered Developer Tools (MCP Servers)
-  - Python Backend & Cloud Automation
-  - Open Source Software
-currently_building:
-  - Model Context Protocol (MCP) servers for AI agents
-  - Intelligent code analysis & trading tools
-open_to: Collaborations on AI/ML, MCP, and open-source projects
-```
+I'm a **backend and AI infrastructure engineer** with **4+ years** of experience designing and shipping production-grade systems — spanning full-stack applications, DevOps automation, data platforms, and AI agent infrastructure.
 
-- 🔧 I build **production-grade MCP servers** that give AI agents (Claude, Cursor, Copilot) real-world superpowers
-- 📈 Creator of **Upstox MCP Server** — the first MCP for Indian equity markets
-- 🗂️ Built **SharePoint MCP** — enterprise-grade AI integration with Microsoft SharePoint
-- 🧪 Passionate about **AI-driven code quality** — automated reviews, test generation, and coverage
+### 🛤️ My Journey
+
+| Phase | Focus | Highlights |
+|-------|-------|------------|
+| 🏗️ **Full-Stack Development** | Built applications from scratch & led team projects | End-to-end architecture, REST APIs, React frontends |
+| ⚙️ **DevOps & Data Engineering** | Enterprise workflow automation & data platforms | Custom **Airflow plugins** for DAG observability, **Jenkins plugins** for CI/CD, contributions to **DataHub** |
+| 🤖 **AI Infrastructure** *(last 1.5 yrs)* | MCP servers & multi-agent systems | Production-grade tools enabling LLMs to interact with real-world APIs & enterprise systems |
+
+### 🔥 What I Build Today
+
+- 📈 **MCP Servers** — production-grade integrations that enable AI agents to securely interact with financial markets, enterprise systems, and developer tooling
+- 🤖 **Multi-Agent Orchestration** — systems that chain multiple LLMs with real-world APIs for autonomous decision-making and workflow execution
+- 🧪 **AI-Driven Code Quality** — automated deep reviews, intelligent test generation, and coverage analysis at scale
 - ✍️ I write about AI engineering on [Medium](https://medium.com/@ravikant1918)
+
+<p>
+  <img src="https://img.shields.io/badge/🚀_Deployed_in_Production_Environments-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/📊_Handling_Real--Time_Market_Data_Streams-0D1117?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏢_Enterprise--Grade_Integrations-0D1117?style=flat-square" />
+</p>
+
+> *I specialize in turning AI from "chat-only" into **action-capable systems**.*
 
 ---
 
@@ -53,7 +60,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <td width="50%" valign="top">
 
 ### 📈 [Upstox MCP Server](https://github.com/ravikant1918/mcp-server-upstox)
-> The first Model Context Protocol server for Indian equity markets — market data, technical analysis & account management via AI agents.
+> The **first MCP server for Indian equity markets** — enabling AI agents to access real-time market data, execute technical analysis, and manage trading accounts programmatically.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -64,7 +71,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <td width="50%" valign="top">
 
 ### 🗂️ [SharePoint MCP](https://github.com/ravikant1918/sharepoint-mcp)
-> Production-grade MCP Server for Microsoft SharePoint — read, write, and manage files & folders through AI agents.
+> Production-grade MCP Server enabling AI agents to **manage enterprise document workflows** — read, write, search, and organize SharePoint files & folders programmatically.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white)
@@ -77,7 +84,7 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <td width="50%" valign="top">
 
 ### 🤖 [Agentify](https://github.com/ravikant1918/agentify)
-> Open-source framework to convert any MCP + LLM config into ready-to-use, problem-solving AI agents — zero boilerplate.
+> Open-source framework that **converts any MCP + LLM config into production-ready AI agents** — zero boilerplate, instant deployment, real problem-solving.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
@@ -88,12 +95,61 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <td width="50%" valign="top">
 
 ### 🧪 [NeuroDev MCP](https://github.com/ravikant1918/neurodev-mcp)
-> Smart MCP server for Python — deep code review, AI-generated unit tests, coverage reports, and auto-formatting through Claude or Cline.
+> AI-powered code quality engine — **automated deep code reviews, intelligent test generation, and coverage analysis** through Claude or Cline.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![AST](https://img.shields.io/badge/AST-FF6F00?style=flat-square)
 [![Stars](https://img.shields.io/github/stars/ravikant1918/neurodev-mcp?style=flat-square&color=6C63FF)](https://github.com/ravikant1918/neurodev-mcp/stargazers)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏛️ Systems I've Designed
+
+<table>
+<tr>
+<td width="50%">
+
+🤖 **Multi-Agent Orchestration Frameworks**
+> Designed systems that chain multiple LLMs with real APIs for autonomous decision-making and workflow execution.
+
+</td>
+<td width="50%">
+
+⚙️ **Enterprise Workflow Automation**
+> Built custom Airflow plugins for DAG observability and task-level analytics, and Jenkins plugins for CI/CD pipeline optimization.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+📈 **Real-Time Market Data Pipelines**
+> Architected MCP integrations that give AI agents live access to financial market data, technical indicators, and trade execution.
+
+</td>
+<td width="50%">
+
+🗂️ **Enterprise Document Automation**
+> Designed AI-driven document management systems through SharePoint APIs, enabling intelligent file organization and search.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+🧪 **AI-Powered Code Review Pipelines**
+> Built automated code quality systems with AST analysis, intelligent test generation, and coverage reporting.
+
+</td>
+<td width="50%">
+
+🗄️ **Data Platform Contributions**
+> Contributed to open-source data platforms like DataHub, building metadata management and data discovery features.
 
 </td>
 </tr>
@@ -114,6 +170,9 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-3B82F6?style=flat-square&logo=graphql&logoColor=white" alt="LangGraph" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs" />
@@ -134,6 +193,10 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 <tr>
 <td colspan="5" align="center">
 <img src="https://skillicons.dev/icons?i=kafka,elastic,go,express" />
+<br/>
+<img src="https://img.shields.io/badge/Google_A2A-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google A2A" />
+<img src="https://img.shields.io/badge/MCP-6C63FF?style=flat-square" alt="MCP" />
+<img src="https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square" alt="CrewAI" />
 </td>
 </tr>
 </table>
@@ -142,7 +205,11 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->- 📄 [What Are MCP Apps? A Developer Guide to Interactive AI Tools for Claude](https://medium.com/@ravikant1918/what-are-mcp-apps-a-developer-guide-to-interactive-ai-tools-for-claude-06992bc1e9f1?source=rss-86550fa0f7ac------2) &mdash; 1616 D, YYYY- 📄 [The USB Port for AI: How the Upstox MCP Server Connects Claude to Real-Time Market Data](https://medium.com/@ravikant1918/the-usb-port-for-ai-how-the-upstox-mcp-server-connects-claude-to-real-time-market-data-ba179358e891?source=rss-86550fa0f7ac------2) &mdash; 099 D, YYYY- 📄 [Monitoring Made Easy With ATP: Leveraging Airflow Plugins for DAG and Task Analytics](https://medium.com/@ravikant1918/monitoring-made-easy-leveraging-airflow-plugins-for-dag-and-task-analytics-6f06e737e9aa?source=rss-86550fa0f7ac------2) &mdash; 4343 D, YYYY<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📄 [What Are MCP Apps? A Developer Guide to Interactive AI Tools for Claude](https://medium.com/@ravikant1918/what-are-mcp-apps-a-developer-guide-to-interactive-ai-tools-for-claude-06992bc1e9f1)
+- 📄 [The USB Port for AI: How the Upstox MCP Server Connects Claude to Real-Time Market Data](https://medium.com/@ravikant1918/the-usb-port-for-ai-how-the-upstox-mcp-server-connects-claude-to-real-time-market-data-ba179358e891)
+- 📄 [Monitoring Made Easy With ATP: Leveraging Airflow Plugins for DAG and Task Analytics](https://medium.com/@ravikant1918/monitoring-made-easy-leveraging-airflow-plugins-for-dag-and-task-analytics-6f06e737e9aa)
+<!-- BLOG-POST-LIST:END -->
 
 ➡️ [**Read all posts on Medium »**](https://medium.com/@ravikant1918)
 
@@ -175,6 +242,18 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 ---
 
+## 🧱 Engineering Philosophy
+
+```
+  Systems          >  Scripts
+  Automation       >  Manual Workflows
+  Infrastructure   >  Demos
+  Open Source      >  Closed Innovation
+  Shipping         >  Talking
+```
+
+---
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -191,8 +270,8 @@ open_to: Collaborations on AI/ML, MCP, and open-source projects
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=80&section=footer" width="100%" />
 
-**"Code. Ship. Open Source. Repeat."**
+**"Full Stack → DevOps → AI Infrastructure — always building what's next."**
 
-*Building AI-powered developer tools that give agents real-world superpowers* 🚀
+*Turning AI from chat-only into action-capable systems* 🚀
 
 </div>
